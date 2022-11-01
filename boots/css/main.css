@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-but a{
+    text-decoration: none;
+}
+.navi{
+    background-color: #fff;
+}
+.ul_list li{
+    margin-left: 15px;
+}
+.header-left{
+    margin-top: 85px;
+    background-color: #74b9ff;
+}
+.head-ul li{
+    margin-left: 20px;
+}
+.h-left-in a{
+    text-decoration: none;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    color: #74b9ff;
+}
+.h-left-in i{
+    font-size: 18px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+    margin-left: 18px;
+    color: #74b9ff;
+}
+#color{
+    background-color: blue;
+}
+.banner-img{
+    text-align: center;
+}
+.banner-img img{
+    margin-top: 20px;
+}
+.follow-icon i{
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 8px;
+}
+.banner-box p:nth-child(1){
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.banner-box p:nth-child(2){
+   width: 80px;
+   font-size: 15px;
+   color: rgb(223, 217, 217);
+}
+.banner-box{
+    padding: 15px;
+    margin-left: 15px;
+    border-radius: 8px;
+    text-align: center;
+
+}
+.banner-down{
+    margin-top: 20px;
+}
+.banner-down-left span{
+    color: #74b9ff;
+}
+.about-top{
+    text-align: center;
+}
+.hari{
+    width: 6%;
+    margin: auto;
+    color: blue;
+    border: 1px solid blue;
+    opacity: 1;
+}
+.span{
+    color: #74b9ff;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.about-top h2{
+    font-size: 35px;
+    font-weight: 600;
+    color: #444444;
+}
+.about-top{
+    margin-top: 60px;
+}
+.about-full{
+    background-color: lightgray;
+}
